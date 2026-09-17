@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "구독로그",
+  "brand": "SUBSCRIPTION LOG",
+  "mark": "SL",
+  "worker": "subscriptionlog",
+  "url": "https://subscriptionlog.webnote-lab.workers.dev",
+  "description": "OTT와 앱 구독, 자동결제와 해지 조건을 관리하는 방법을 정리합니다.",
+  "tagline": "구독을 기록하고 선택하다",
+  "categories": [
+    {
+      "slug": "ott",
+      "name": "OTT",
+      "description": "OTT 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "recurring-payments",
+      "name": "자동결제",
+      "description": "자동결제 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "app-store",
+      "name": "앱스토어 구독",
+      "description": "앱스토어 구독 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "google-play",
+      "name": "구글플레이 구독",
+      "description": "구글플레이 구독 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "ott-choice",
+      "name": "OTT 선택",
+      "description": "OTT 선택 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "music",
+      "name": "음악 구독",
+      "description": "음악 구독 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "family-sharing",
+      "name": "가족공유",
+      "description": "가족공유 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "cancellation",
+      "name": "해지",
+      "description": "해지 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "annual-plans",
+      "name": "연간결제",
+      "description": "연간결제 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "subscription-budget",
+      "name": "구독비 관리",
+      "description": "구독비 관리 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/subscriptionlog/issues"
+}
